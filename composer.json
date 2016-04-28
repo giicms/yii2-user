@@ -1,0 +1,16 @@
+{
+    "name": "giicms/yii2-user",
+    "description": "User",
+    "homepage": "https://github.com/giicms/yii2-user",
+    "keywords": ["yii2","user"],
+    "license": "MIT",
+    "minimum-stability": "beta",
+    "require": {
+        "php": ">=5.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "giicms\\user\\": ""
+        }
+    }
+}
