@@ -1,7 +1,7 @@
 yii2-user
 =================
 
-Forum
+User
 
 ## Installation
 
